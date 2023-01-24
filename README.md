@@ -5,22 +5,24 @@
 <h2>
 </h2><ul>
 
-<p><strong><img src="https://i.ibb.co/8xXHWc3/top-rated.png" height="35" alt="telegram logo"> Querying the balances of Private Keys Generated with RPC</strong></p>
+<p><strong><img src="https://i.ibb.co/8xXHWc3/top-rated.png" height="20" alt="telegram logo"> Querying the balances of Private Keys Generated with RPC</strong></p>
 
 
-<p><strong><img src="https://i.ibb.co/8xXHWc3/top-rated.png" height="35" alt="telegram logo"> Saving current wallet addresses in home networks to our local machine and querying as database without RPC (Fastest method)</strong></p>
-
+<p><strong><img src="https://i.ibb.co/8xXHWc3/top-rated.png" height="20" alt="telegram logo"> Saving current wallet addresses in home networks to our local machine and querying as database without RPC (Fastest method)</strong></p>
+<h2>
 </ul>
+
+
 <blockquote>
-<p><strong>Ethereum</strong> DATABASE 270M-Address — 250$<br>
-<strong>BSC</strong> DATABASE 270M-Address — 250$<br>
-<strong>Polygon</strong> DATABASE 270M-Address — 250$<br>
-<strong>Avax</strong> DATABASE 270M-Address — 250$<br>
-<strong>Arbitrum</strong> DATABASE 270M-Address — 250$<br>
-<strong>Fantom</strong> DATABASE 270M-Address — 250$<br>
-<strong>Cronos</strong> DATABASE 270M-Address — 250$<br>
-<strong>Optimism</strong> DATABASE 270M-Address — 250$<br>
-<strong>Gnosis</strong> DATABASE 270M-Address — 250$</p>
+<p><strong>Ethereum</strong> DATABASE DUMPS -- 221M-Address — 200$<br>
+<strong>BSC</strong> DATABASE DUMPS -- 245M-Address — 200$<br>
+<strong>Polygon</strong> DATABASE DUMPS -- 215M-Address — 150$<br>
+<strong>Avax</strong> DATABASE DUMPS -- 5M-Address — 50$<br>
+<strong>Arbitrum</strong> DATABASE DUMPS -- 2.7M-Address — 50$<br>
+<strong>Fantom</strong> DATABASE DUMPS -- 51M-Address — 100$<br>
+<strong>Cronos</strong> DATABASE DUMPS -- 1.1M-Address — 50$<br>
+<strong>Optimism</strong> DATABASE DUMPS -- 2.7M-Address — 50$<br>
+<strong>Gnosis</strong> DATABASE DUMPS -- 5M-Address — 50$</p>
 </blockquote>
 
 <p>The database shooting process is a very laborious and tedious process. It takes almost years to scan the blocks in EVM networks with RPC, but you can easily reach them all. Unfortunately, this data is not sold on the Internet, it can be said that it is impossible to find.</p>
