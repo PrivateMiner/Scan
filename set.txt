@@ -1,0 +1,4 @@
+30
+privatekey
+0.50
+adress
