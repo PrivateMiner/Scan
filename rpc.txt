@@ -1,3 +1,0 @@
-[ETH]: "https://api.mycryptoapi.com/eth"
-[BSC]: "https://rpc.ankr.com/bsc"
-[MATIC]: "https://1rpc.io/matic"
