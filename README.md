@@ -106,10 +106,7 @@ Start by working with RPC with fewer processes? Or will you think professionally
   <img src="https://img.shields.io/static/v1?message=Medium&amp;logo=medium&amp;label=&amp;color=12100E&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="35" alt="medium logo">
 </div>
 <h2>
-</h2><div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dracula&amp;locale=en&amp;hide_border=false&amp;username=PrivateMiner" height="150" alt="stats graph">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false&amp;username=private" height="150" alt="languages graph">
-</div>
+</h2>
 <div align="center">
 <img src="https://svgshare.com/i/pgi.svg" alt="Snake animation">
 </div>
