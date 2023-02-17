@@ -1,6 +1,6 @@
 <h2 align="left"><img src="https://i.ibb.co/Xsnxkbz/Copy-of-Untitled-Design.png" height="35" alt="telegram logo">  PrivateMiner Open Source Blockchain Private Key Explorer for EVM Networks</h2>
 
-<a href="https://streamable.com/ouu5hz"><img src="https://user-images.githubusercontent.com/123317717/219676015-7bd46b36-f79b-4be8-a4bd-4824971aa1af.png"/></a>
+<a href="https://streamable.com/ouu5hz?rel=0"><img src="https://user-images.githubusercontent.com/123317717/219676015-7bd46b36-f79b-4be8-a4bd-4824971aa1af.png"/></a>
 
 
 
