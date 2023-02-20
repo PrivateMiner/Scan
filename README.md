@@ -1,6 +1,8 @@
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/55OZhqHLfks" title="PrivateMiner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <h2 align="left"><img src="https://i.ibb.co/Xsnxkbz/Copy-of-Untitled-Design.png" height="35" alt="telegram logo">  PrivateMiner Open Source Blockchain Private Key Explorer for EVM Networks</h2>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/55OZhqHLfks" title="PrivateMiner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <p>In EVM networks (<strong>Ethereum</strong>, <strong>Binance Smart Chain</strong>, <strong>Polygon</strong>, <strong>Avax</strong>, <strong>Arbitrum</strong>, <strong>Fantom</strong>, <strong>Cronos</strong>, <strong>Optimism</strong>, <strong>Gnosis</strong>) I will talk about 2 different ways to scan for active or unused wallets;</p>
 <p><strong>Ethereum</strong>, <strong>Binance Smart Chain</strong>, <strong>Polygon</strong>, <strong>Avax</strong>, <strong>Arbitrum</strong>, <strong>Phantom</strong>, <strong>Cronos</strong>, <strong>Optimism</strong>, <strong>Gnosis</strong> Since the private key encryption of these EVM networks is the same, we will scan them all at the same time, thus increasing our chances of finding the existing private key.</p>
