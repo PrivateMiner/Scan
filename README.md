@@ -1,4 +1,4 @@
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/55OZhqHLfks" title="PrivateMiner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[[![Run](https://user-images.githubusercontent.com/123317717/219676015-7bd46b36-f79b-4be8-a4bd-4824971aa1af.png)](https://www.youtube.com/watch?v=55OZhqHLfks?rel=0)
 
 <h2 align="left"><img src="https://i.ibb.co/Xsnxkbz/Copy-of-Untitled-Design.png" height="35" alt="telegram logo">  PrivateMiner Open Source Blockchain Private Key Explorer for EVM Networks</h2>
 
